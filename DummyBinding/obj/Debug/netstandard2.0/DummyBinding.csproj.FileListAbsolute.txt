@@ -7,12 +7,3 @@ C:\Users\damoo\source\repos\DummyBinding\DummyBinding\obj\Debug\netstandard2.0\D
 C:\Users\damoo\source\repos\DummyBinding\DummyBinding\bin\Debug\netstandard2.0\DummyBinding.pdb
 C:\Users\damoo\source\repos\DummyBinding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.dll
 C:\Users\damoo\source\repos\DummyBinding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.pdb
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\bin\Debug\netstandard2.0\DummyBinding.deps.json
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\bin\Debug\netstandard2.0\DummyBinding.dll
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\bin\Debug\netstandard2.0\DummyBinding.pdb
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.csprojAssemblyReference.cache
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.csproj.CoreCompileInputs.cache
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.AssemblyInfoInputs.cache
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.AssemblyInfo.cs
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.dll
-C:\Users\damoo\source\repos\custom-binding\DummyBinding\obj\Debug\netstandard2.0\DummyBinding.pdb

@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "type": "func",
+            "command": "host start",
+            "problemMatcher": "$func-watch",
+            "isBackground": true,
+            "options": {
+                "cwd": "${workspaceFolder}/dummyArt/target/azure-functions/dummyart-20190507132630567/"
+            },
+            "dependsOn": "package"
+        },
+        {
+            "label": "package",
+            "command": "mvn clean package",
+            "type": "shell",
+            "options": {
+                "cwd": "${workspaceFolder}/dummyArt"
+            }
+        }
+    ]
+}

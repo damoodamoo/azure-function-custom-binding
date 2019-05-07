@@ -1,4 +1,4 @@
-# Azure Functions Custom Binding Sample
+# Azure Functions v2 Custom Binding Sample
 
 This repo contains a few sample projects to demonstrate the architecture and plumbing needed when writing a custom binding in Azure Functions v2. It also contains sample implementation functions written in:
 - C#
